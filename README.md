@@ -1,14 +1,20 @@
 # Welcome to home of good software
 ## 本博客致力于收集绿色免费功能无可替代的软件
 ### 浏览器
+```markdown
+firefox下载点
+https://www.mozilla.org/zh-CN/firefox/
+ 
+https://archive.mozilla.org/pub/firefox/releases/
 
-firefox
+http://ftp.mozilla.org/pub/firefox/releases/
 
 chrome
 
 edge
-
+```
 ### 文件管理和处理
+```markdown
 ### 7zip
 [7-Zip 官方中文网站](https://sparanoid.com/lab/7z/)
 
@@ -20,7 +26,7 @@ edge
 
 ### treesize free
 
-
+```
 
 
 
