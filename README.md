@@ -1,6 +1,17 @@
 ### Welcome to home of good software
-
-
+## 本博客致力于收集绿色免费功能无可替代的软件
+# 浏览器
+```markdown
+1.firefox
+2.chrome
+3.edge
+```
+#文件管理和处理
+```markdown
+1.7zip
+2.bandizip
+3.treesize free
+```
 
 
 
