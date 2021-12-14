@@ -2,9 +2,12 @@
 ## 本博客致力于收集绿色免费功能无可替代的软件
 ### 浏览器
 
-firefox下载点
+firefox下载
+
 (https://www.mozilla.org/zh-CN/firefox/)
+
 (https://archive.mozilla.org/pub/firefox/releases/)
+
 (http://ftp.mozilla.org/pub/firefox/releases/)
 
 chrome
