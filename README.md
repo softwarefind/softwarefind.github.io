@@ -4,36 +4,37 @@
 
 firefox下载
 
-[org](https://www.mozilla.org/zh-CN/firefox/)
+[下载点1](https://www.mozilla.org/zh-CN/firefox/)
 
-[org](https://archive.mozilla.org/pub/firefox/releases/)
+[下载点2](https://archive.mozilla.org/pub/firefox/releases/)
 
-[ftp](http://ftp.mozilla.org/pub/firefox/releases/)
+[ftp下载点](http://ftp.mozilla.org/pub/firefox/releases/)
 
 chrome
 
-[cn](https://www.google.cn/chrome/)
+[下载](https://www.google.cn/chrome/)
 
 edge
 
-[microsoft](https://www.microsoft.com/zh-cn/edge)
+[下载](https://www.microsoft.com/zh-cn/edge)
 
 ### 文件管理和处理
 
 ### 7zip
-[7-Zip 官方中文网站](https://sparanoid.com/lab/7z/)
+[7-Zip 官方中文网站下载](https://sparanoid.com/lab/7z/)
 
-[https://www.7-zip.org/](https://www.7-zip.org/)
+[org下载](https://www.7-zip.org/)
 
-[7zip zstd](https://github.com/mcmilk/7-Zip-zstd/releases)
+[7zip zstd版](https://github.com/mcmilk/7-Zip-zstd/releases)
 
-### bandizip
+### bandizip解压缩
 
-[bandizip](http://www.bandisoft.com/bandizip/)
+[下载](http://www.bandisoft.com/bandizip/)
 
-### treesize free
+### treesize free 文件占用分析工具
 
-[treesizefree](https://www.jam-software.com/treesize_free)
+[官网下载](https://www.jam-software.com/treesize_free)
+[msstore](https://www.microsoft.com/store/productId/9NBLGGH40881)
 
 
 
