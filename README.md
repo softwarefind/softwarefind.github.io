@@ -1,6 +1,6 @@
 # Welcome to home of good software
 ## 本博客致力于收集绿色免费功能无可替代的软件,仅给出下载地址，具体功能和使用方法自行学习
-## 浏览器
+## 1 浏览器
 
 ### firefox
 
@@ -16,7 +16,7 @@
 
 [下载](https://www.microsoft.com/zh-cn/edge)
 
-## 文件管理和处理
+## 2 文件管理和处理
 
 ### 7zip
 [7-Zip 官方中文网站下载](https://sparanoid.com/lab/7z/)
@@ -30,5 +30,5 @@
 ### treesize free 文件占用分析工具
 
 [官网下载](https://www.jam-software.com/treesize_free)
-[ms-store](https://www.microsoft.com/store/productId/9NBLGGH40881)
+[从ms-store下载](https://www.microsoft.com/store/productId/9NBLGGH40881)
 
