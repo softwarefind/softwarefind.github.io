@@ -1,24 +1,25 @@
-### Welcome to home of good software
+# Welcome to home of good software
 ## 本博客致力于收集绿色免费功能无可替代的软件
-# 浏览器
-```markdown
-1.firefox
+### 浏览器
 
-2.chrome
-3.edge
-```
-# 文件管理和处理
-```markdown
-## 7zip
+firefox
+
+chrome
+
+edge
+
+### 文件管理和处理
+### 7zip
 [7-Zip 官方中文网站](https://sparanoid.com/lab/7z/)
+
 [https://www.7-zip.org/](https://www.7-zip.org/)
+
 [7zip zstd](https://github.com/mcmilk/7-Zip-zstd/releases)
 
-## bandizip
+### bandizip
 
-## treesize free
+### treesize free
 
-```
 
 
 
