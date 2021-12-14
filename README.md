@@ -3,14 +3,21 @@
 # 浏览器
 ```markdown
 1.firefox
+
 2.chrome
 3.edge
 ```
-#文件管理和处理
+# 文件管理和处理
 ```markdown
-1.7zip
-2.bandizip
-3.treesize free
+## 7zip
+[7-Zip 官方中文网站](https://sparanoid.com/lab/7z/)
+[https://www.7-zip.org/](https://www.7-zip.org/)
+[7zip zstd](https://github.com/mcmilk/7-Zip-zstd/releases)
+
+## bandizip
+
+## treesize free
+
 ```
 
 
