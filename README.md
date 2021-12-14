@@ -2,7 +2,7 @@
 ## 本博客致力于收集绿色免费功能无可替代的软件
 ## 浏览器
 
-### firefox下载
+### firefox
 
 [下载点1](https://www.mozilla.org/zh-CN/firefox/)
 
