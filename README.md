@@ -1,5 +1,6 @@
 # Welcome to home of good software
-## 本博客致力于收集绿色免费功能无可替代的软件,仅给出下载地址，具体功能和使用方法自行学习
+# 欢迎来到优秀软件之家
+## 本博客建立于2021年11月。致力于收集绿色，免费，并且功能无可替代的windows android软件,仅给出下载地址，具体功能和使用方法自行学习
 ## 1 浏览器
 
 ### firefox
@@ -18,7 +19,7 @@
 
 ## 2 文件管理和处理
 
-### 7zip
+### 7zip解压缩
 [7-Zip 官方中文网站下载](https://sparanoid.com/lab/7z/)
 [org下载](https://www.7-zip.org/)
 [7zip zstd版](https://github.com/mcmilk/7-Zip-zstd/releases)
@@ -31,4 +32,8 @@
 
 [官网下载](https://www.jam-software.com/treesize_free)
 [从ms-store下载](https://www.microsoft.com/store/productId/9NBLGGH40881)
+
+### zarchiver（android）
+[play](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
+[huawei](https://appgallery.huawei.com/#/app/C101456705)
 
