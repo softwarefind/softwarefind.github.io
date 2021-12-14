@@ -19,7 +19,8 @@
 
 ### fastcopy [下载](https://fastcopy.jp/)
 
-### zarchiver（android） [play](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)[huawei](https://appgallery.huawei.com/#/app/C101456705)
+### zarchiver（android） [谷歌play](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)  [华为市场](https://appgallery.huawei.com/#/app/C101456705)
 
 ## 3 影音工具
 ### foobar2000  [下载]（https://www.foobar2000.org/）
+### potplayer  [官网下载（可能无法打开）](https://daumpotplayer.com/)   [联想软件商店](https://lestore.lenovo.com/detail/15654)
