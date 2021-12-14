@@ -4,15 +4,19 @@
 
 firefox下载
 
-(https://www.mozilla.org/zh-CN/firefox/)
+[org](https://www.mozilla.org/zh-CN/firefox/)
 
-(https://archive.mozilla.org/pub/firefox/releases/)
+[org](https://archive.mozilla.org/pub/firefox/releases/)
 
-(http://ftp.mozilla.org/pub/firefox/releases/)
+[ftp](http://ftp.mozilla.org/pub/firefox/releases/)
 
 chrome
 
+[cn](https://www.google.cn/chrome/)
+
 edge
+
+[microsoft](https://www.microsoft.com/zh-cn/edge)
 
 ### 文件管理和处理
 
@@ -25,9 +29,11 @@ edge
 
 ### bandizip
 
+[bandizip](http://www.bandisoft.com/bandizip/)
+
 ### treesize free
 
-
+[treesizefree](https://www.jam-software.com/treesize_free)
 
 
 
