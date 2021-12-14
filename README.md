@@ -19,8 +19,20 @@
 
 ### fastcopy [下载](https://fastcopy.jp/)
 
-### zarchiver（android） [谷歌play](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)  [华为市场](https://appgallery.huawei.com/#/app/C101456705)
+### zarchiver（安卓app） [谷歌play](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)  [华为市场](https://appgallery.huawei.com/#/app/C101456705)
 
+### diskinfo [下载](https://crystalmark.info/en/software/crystaldiskinfo/)
+
+### everything [下载](https://www.voidtools.com/zh-cn/downloads/)
 ## 3 影音工具
 ### foobar2000  [下载](https://www.foobar2000.org/)
+
 ### potplayer  [官网下载（可能无法打开!）](https://daumpotplayer.com/)   [联想软件商店](https://lestore.lenovo.com/detail/15654)
+
+### splayer [下载](https://www.splayer.org/)
+
+### vlc   [下载](https://www.videolan.org/)
+
+## 4 下载工具
+
+### fdm [下载](https://www.freedownloadmanager.org/zh/download.htm)
